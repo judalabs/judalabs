@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Rodrigo 👋
+I develop web applications in my free time and I work as a Web Back-end Developer👨🏻‍💻
+
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/rodrigo-jud%C3%A1-concei%C3%A7%C3%A3o/))]([https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/rodrigo-jud%C3%A1-concei%C3%A7%C3%A3o/))
+[![Linkedin: rodrigo](https://img.shields.io/badge/-judalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-jud%C3%A1-concei%C3%A7%C3%A3o/)](https://www.linkedin.com/in/rodrigo-jud%C3%A1-concei%C3%A7%C3%A3o/)
 
 <!--
 **judalabs/judalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
