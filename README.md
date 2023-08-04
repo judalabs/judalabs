@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/rodrigo-jud%C3%A1-concei%C3%A7%C3%A3o/))]([https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/rodrigo-jud%C3%A1-concei%C3%A7%C3%A3o/))
 
 <!--
 **judalabs/judalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
