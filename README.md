@@ -2,9 +2,9 @@
 <h3 align="center">I develop web applications in my free time and I work as a Web Back-end Developer👨🏻‍💻</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **financial solutions and side projects**
+- 🔭 I’m currently working on **financial solutions and side projects and open source projects**
 
-- 🌱 I’m currently learning **MongoDB, AWS, Rust Language**
+- 🌱 I’m currently learning **Kubernetes, AWS, Quarkus extensions, Java 21**
 
 - 🤝 I’m looking for help with [publishing reliable git statistics](https://github.com/judalabs/git-statistics)
 
